@@ -1,0 +1,54 @@
+.btn {
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  border: none;
+  height: 40px;
+  width: 100px;
+}
+.location-flex {
+  display: flex;
+  flex-wrap: wrap;
+  /* border: solid 2px green; */
+  height: 50px;
+  width: auto;
+}
+.location-item {
+  flex: 1;
+  flex-basis: 30%;
+  font-weight: bold;
+  /* background-color: aqua; */
+}
+.pin-flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  /* background-color: bisque; */
+  width: auto;
+}
+.pin-item {
+  flex: 1;
+  flex-basis: 35%;
+  border: solid 2px black;
+  margin: 10px;
+  margin-left: 0px;
+  /* background-color: cadetblue; */
+}
+.p {
+  font-weight: bold;
+  color: black;
+}
+.pin-item p {
+  margin-left: 20px;
+}
+.container2 {
+  display: none;
+}
+.input {
+  /* margin-left: 10px; */
+  /* background: transparent
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E")
+    no-repeat center; */
+  height: 20px;
+  width: 340px;
+  border: solid 2px black;
+}
