@@ -17,6 +17,7 @@
   flex: 1;
   flex-basis: 30%;
   font-weight: bold;
+  font-size: large;
   /* background-color: aqua; */
 }
 .pin-flex-container {
@@ -36,6 +37,7 @@
 .p {
   font-weight: bold;
   color: black;
+  font-size: large;
 }
 .pin-item p {
   margin-left: 20px;
