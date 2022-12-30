@@ -10,7 +10,7 @@
   display: flex;
   flex-wrap: wrap;
   /* border: solid 2px green; */
-  height: 50px;
+  /* height: 50px; */
   width: auto;
 }
 .location-item {
